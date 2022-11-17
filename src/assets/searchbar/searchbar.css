@@ -44,9 +44,9 @@
     background: none;
  
 }
-/* .booking-form .form-label {
-    font-size: 20px  ;
-} */
+ .booking-form .form-label {
+    font-size: 13px  ;
+} 
 .form__width-1{
     width: 29%;
 }
@@ -84,7 +84,7 @@
     background-color: #f23e3e;
     font-weight: 400;
     height: 50px;
-    /* font-size: 14px; */
+    font-size: 14px;
     border: none;
     width: 100%;
    
@@ -114,7 +114,7 @@
     width: 52%;
 }
 .booking-form .form-label {
-    /* font-size: 7px !important; */
+    font-size: 7px !important;
 }
 
   }
